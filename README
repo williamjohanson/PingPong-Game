@@ -1,0 +1,33 @@
+PING PONG
+
+By  - Ollie Sharplin
+    - William Johanson
+16/10/2018
+
+
+Overview: 
+A ping pong style game where each player has their own board on their own device. The aim of the game is to hit the ball 
+into places where your opponent will let the board miss the ball and in that case, you win!
+
+
+Instructions:
+As soon as the game is compiled and run on each respective device, the successful initialisation message "PRESS JOYSTICK" 
+is displayed.
+Once both boards are ready, one player can proceed and press the joystick. This will mean it is there turn to serve. Once 
+a player has served the game is on!
+Each player has the ability to move their own board left and right, and each board takes up 3 of the 7 available spaces 
+in the farthest column. The ball will bounce off differently from the board dependent on where the ball strikes the board.
+
+LEFT: The ball will bounce off 45 degrees to the left.
+CENTER: The ball bounces straight back.
+RIGHT: The ball bounces off 45 degrees to the right.
+
+If the ball misses the board entirely you lose! Once this occurs a message will be displayed showing who has won and who 
+has lost until the game is restarted.
+
+The game can be restarted by pressing the joystick.
+
+
+
+If you lose IR connectivity, make sure you bring the boards back closer together and restart the game again by pressing
+the joystick.
